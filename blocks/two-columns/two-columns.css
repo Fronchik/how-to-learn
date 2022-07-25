@@ -2,7 +2,6 @@
   width: 80%;
   min-width: 784px;
   display: flex;
-  align-items: space-between;
   justify-content: space-between;
   margin: 100px auto 0;
 }

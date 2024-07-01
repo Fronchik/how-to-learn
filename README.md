@@ -7,3 +7,5 @@
 - Методолгия БЭМ
 - Iframe
 - Анимация
+
+ссылка на GitHub Pages: https://fronchik.github.io/how-to-learn/
